@@ -1,4 +1,3 @@
-# pspenano_site
 
 To deploy changes, `sh deploy.sh`
 
