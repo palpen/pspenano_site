@@ -6,6 +6,8 @@ tags:
  - sample
 ---
 
+<img src="/img/myimg.png" width="100"/>
+
 This is a first post. To print in Python, do
 
 ```python
