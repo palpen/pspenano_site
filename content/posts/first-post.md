@@ -6,7 +6,7 @@ tags:
  - sample
 ---
 
-<img src="/img/myimg.png" width="100"/>
+<img src="/posts/img/first-post/myimg.png" width="100"/>
 
 This is a first post. To print in Python, do
 
