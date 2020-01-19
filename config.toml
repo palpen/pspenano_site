@@ -23,3 +23,10 @@ theme = "xmin"
 [params]
     description = "A website built through Hugo and blogdown."
     footer = "© 2020 Palermo Penano. Powered by Hugo using the [XMin](https://github.com/yihui/hugo-xmin) theme"
+
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
