@@ -1,4 +1,6 @@
 #!/bin/sh
+# You must first create a git submodule within this
+# repository before this can work
 
 # If a command fails then the deploy stops
 set -e
