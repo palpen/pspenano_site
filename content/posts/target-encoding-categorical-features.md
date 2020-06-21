@@ -1,7 +1,7 @@
 ---
 title: "Target Encoding Categorical Features"
 date: 2020-01-25T11:50:01-05:00
-draft: true
+draft: false
 ---
 
 ## What is target encoding?
